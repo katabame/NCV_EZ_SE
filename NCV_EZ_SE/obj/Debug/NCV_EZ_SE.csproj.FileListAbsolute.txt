@@ -1,0 +1,7 @@
+C:\Users\katab\OneDrive\dev\NCV_EZ_SE\NCV_EZ_SE\bin\Debug\NCV_EZ_SE.dll
+C:\Users\katab\OneDrive\dev\NCV_EZ_SE\NCV_EZ_SE\bin\Debug\NCV_EZ_SE.pdb
+C:\Users\katab\OneDrive\dev\NCV_EZ_SE\NCV_EZ_SE\bin\Debug\NicoLibrary.dll
+C:\Users\katab\OneDrive\dev\NCV_EZ_SE\NCV_EZ_SE\bin\Debug\Plugin.dll
+C:\Users\katab\OneDrive\dev\NCV_EZ_SE\NCV_EZ_SE\obj\Debug\NCV_EZ_SE.csprojResolveAssemblyReference.cache
+C:\Users\katab\OneDrive\dev\NCV_EZ_SE\NCV_EZ_SE\obj\Debug\NCV_EZ_SE.dll
+C:\Users\katab\OneDrive\dev\NCV_EZ_SE\NCV_EZ_SE\obj\Debug\NCV_EZ_SE.pdb

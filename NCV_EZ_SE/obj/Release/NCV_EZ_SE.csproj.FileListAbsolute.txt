@@ -1,0 +1,6 @@
+C:\Users\katab\OneDrive\dev\NCV_EZ_SE\NCV_EZ_SE\bin\Release\NCV_EZ_SE.dll
+C:\Users\katab\OneDrive\dev\NCV_EZ_SE\NCV_EZ_SE\bin\Release\NCV_EZ_SE.pdb
+C:\Users\katab\OneDrive\dev\NCV_EZ_SE\NCV_EZ_SE\bin\Release\NicoLibrary.dll
+C:\Users\katab\OneDrive\dev\NCV_EZ_SE\NCV_EZ_SE\bin\Release\Plugin.dll
+C:\Users\katab\OneDrive\dev\NCV_EZ_SE\NCV_EZ_SE\obj\Release\NCV_EZ_SE.dll
+C:\Users\katab\OneDrive\dev\NCV_EZ_SE\NCV_EZ_SE\obj\Release\NCV_EZ_SE.pdb
