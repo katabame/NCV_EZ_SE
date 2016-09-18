@@ -73,7 +73,7 @@ namespace NCV_EZ_SE
         {
             get
             {
-                return "1.1.3";
+                return "1.2.0";
             }
         }
 
@@ -95,12 +95,13 @@ namespace NCV_EZ_SE
             {
                 DirectoryInfo di = Directory.CreateDirectory(appPath + @"SE_setting\");
             }
-            Run();
+            host.ReceivedComment += new ReceivedCommentEventHandler(host_ReceivedComment);
         }
 
         public void Run()
         {
-            host.ReceivedComment += new ReceivedCommentEventHandler(host_ReceivedComment);
+            Form1 form = new Form1();
+            form.Show();
         }
 
         void host_ReceivedComment(object sender, ReceivedCommentEventArgs e)
